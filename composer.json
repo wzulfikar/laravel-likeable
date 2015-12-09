@@ -1,0 +1,11 @@
+{
+    "name": "wzulfikar/laravel-likeable",
+    "autoload": {
+        "psr-4": {
+            "Wzulfikar\\Likeable\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2.0"
+    }
+}

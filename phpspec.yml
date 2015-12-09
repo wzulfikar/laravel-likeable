@@ -1,0 +1,4 @@
+suites:
+  library_suite:
+    namespace: Wzulfikar\Likeable
+    psr4_prefix: Wzulfikar\Likeable
